@@ -1,4 +1,5 @@
 assets
 node_modules
 .DS_Store
-gulpfile-notes.js
+*.lnk
+*.map
